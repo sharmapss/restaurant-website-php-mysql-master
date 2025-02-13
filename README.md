@@ -15,7 +15,7 @@
 <div>
 	<h3>Website DEMO</h3>
   	
-	<p> Admin Login Page: http://localhost/restaurant-website-php-mysql/admin/</li></p>
+	Admin Login Page: http://localhost/restaurant-website-php-mysql/admin/</li>
 	</ul>
 	<p>
 		Username: admin_user
